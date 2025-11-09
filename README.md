@@ -4,7 +4,7 @@ This project demonstrates a simple **document-based data model** using **MongoDB
 
 It includes:
 - `populate_db.py` → creates and fills the database (run by owner(student) only)
-- `professor_demo.py` → connects to the same database and runs example queries (professor)
+- `queries_demo.py` → connects to the same database and runs example queries (professor)
 
 Requirements
 
